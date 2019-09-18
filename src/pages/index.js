@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 import { siteMetadata } from "../../gatsby-config";
-import ProfilePic from "../assets/avatar.png";
+import ProfilePic from "../assets/avatar.jpg";
 
 import About from "../components/About";
 import Projects from "../components/Project";
