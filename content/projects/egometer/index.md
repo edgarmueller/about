@@ -1,10 +1,8 @@
 ---
 title: egometer
 date: 2018-current
-path: /projects/egometer
 URL: https://github.com/edgarmueller/egometer-frontend
+type: pet
 ---
 
-A customizable habit tracker 
-
-React-based Frontend & Scala-based backend 
+Project for creating a customizable habit tracker with a React-based Frontend & Scala-based backend 

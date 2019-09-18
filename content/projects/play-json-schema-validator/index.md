@@ -1,9 +1,9 @@
 ---
 title: Play JSON Schema Validator
-date: 03-01-2018
-path: /projects/play-json-schema-validator
+date: 2015-2019
 URL: https://github.com/eclipsesource/play-json-schema-validator
+type: pet
 ---
 
-Scala-based JSON schema validator based on Play JSON
+Scala-based JSON schema validator based on Play JSON for JSON schema draft v4 and v7
 
