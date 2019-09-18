@@ -12,7 +12,7 @@ class IndexPage extends Component {
   render() {
     const projectEdges = this.props.data.allMarkdownRemark.edges;
     return (
-      <div style={{ paddingTop: "1rem" }}>
+      <div style={{ padding: "1rem" }}>
         <div
           style={{
             display: "flex",
