@@ -1,7 +1,7 @@
 module.exports = {
   site: {
     title: "Edgar Mueller",
-    Keywords: "about portfolio"
+    Keywords: "About Portfolio"
   },
   author: {
     name: "Edgar Mueller",
@@ -9,8 +9,8 @@ module.exports = {
   },
   og: {
     title: "Edgar Mueller",
-    description: "personal website",
-    url: "http://gatsby-starter-product-guy.surge.sh",
+    description: "Personal Website",
+    url: "http://edmue.net",
     site_name: "Edgar Mueller",
     type: "website"
   }
