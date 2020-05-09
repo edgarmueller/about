@@ -16,8 +16,8 @@ class Projects extends Component {
   render() {
     return (
       <div>
-        <h2><span role="img" aria-label="rocketship">🚀 </span> Projects &amp; Apps</h2>
-        Here a couple of professional and pet projects I have been working on:
+        <h2><span role="img" aria-label="rocketship">🚀&nbsp;</span> Projects &amp; Apps</h2>
+        Here a couple of professional and pet projects I have been working on (🐶 = pet project, 💶 = professional): 
         {this.getData()
           .map(project => {
             return (
