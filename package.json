@@ -3,6 +3,9 @@
   "description": "Personal About page",
   "version": "0.1.0",
   "author": "Edgar Mueller",
+  "engines": {
+    "node": "10.16.3"
+  },
   "dependencies": {
     "gatsby": "^2.21.21",
     "gatsby-link": "^2.4.2",
