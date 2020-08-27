@@ -2,8 +2,8 @@
 title: JSONForms
 date: 2018-2019
 path: /projects/jsonforms
-URL: jsonforms.io
+URL: https://jsonforms.io
 type: professional
 ---
 
-React-based framework for rendering forms based on JSON schema and an custom JSON UI description. 
+React-based framework for rendering forms based on JSON schema and an custom JSON UI description.
