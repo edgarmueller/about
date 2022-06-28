@@ -4,6 +4,7 @@
     "config:base"
   ], 
   "labels": ["dependencies"],
+  "platformAutomerge": true,
   "packageRules": [
     {
       "matchDepTypes": ["devDependencies"],
