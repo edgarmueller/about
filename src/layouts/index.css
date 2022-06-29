@@ -622,13 +622,6 @@ pre tt:after {
   content: "";
 }
 
-.react-typeout-caret {
-  content: "|";
-  margin-left: 5px;
-  opacity: 1;
-  font-weight: 100;
-}
-
 .avatar img:hover {
   transform: scale(1.05);
   transition: 0.3s ease-in-out;
