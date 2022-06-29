@@ -34,7 +34,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^28.1.1",
-    "prettier": "^1.16.4"
+    "jest": "28.1.1",
+    "prettier": "1.16.4"
   }
 }
