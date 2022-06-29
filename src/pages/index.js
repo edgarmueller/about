@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { graphql } from 'gatsby';
 
 import { siteMetadata } from "../../gatsby-config";
 import ProfilePic from "../assets/avatar.jpg";
