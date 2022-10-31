@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "Edgar Mueller",
   "engines": {
-    "node": "16"
+    "node": "18"
   },
   "dependencies": {
     "gatsby": "^4.17.2",
