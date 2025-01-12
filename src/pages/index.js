@@ -42,7 +42,6 @@ class IndexPage extends Component {
             <h2><span role="img" aria-label="get in touch">🙏</span> Get in Touch</h2>
             <ul>
               <li><a href="https://github.com/edgarmueller">github</a></li>
-              <li><a href="https://soundcloud.com/edgarmm">Soundcloud</a></li>
               <li><a href="https://stackoverflow.com/users/3567830/edi">StackOverflow</a></li>
               <li><a href="https://www.linkedin.com/in/edgar-mueller-8155a180">LinkedIn</a></li>
             </ul>
@@ -65,7 +64,6 @@ export const rootQuery = graphql`
           frontmatter {
             title
             date
-            type
             URL
           }
         }

@@ -9,7 +9,6 @@ class Projects extends Component {
         date: projectEdge.node.frontmatter.date,
         excerpt: projectEdge.node.excerpt,
         URL: projectEdge.node.frontmatter.URL,
-        type: projectEdge.node.frontmatter.type
     }));
   }
 
@@ -17,18 +16,13 @@ class Projects extends Component {
     return (
       <div>
         <h2><span role="img" aria-label="rocketship">🚀&nbsp;</span> Projects &amp; Apps</h2>
-        Here a couple of professional and pet projects I have been working on (🐶 = pet project, 💶 = professional): 
+        <p>Here are a couple of projects I have been working on in the past.  You can find more at my <a href="https://github.com/edgarmueller">GitHub profile</a>.</p>
         {this.getData()
           .map(project => {
             return (
               <div key={project.title} style={{ padding: ".5rem" }}>
                 <p style={{ fontWeight: "bold" }}>
                   {project.title}&nbsp;
-                  {project.type === "pet" ? (
-                    <span role="img" aria-label="pet project">🐶</span>
-                  ) : (
-                    <span role="img" aria-label="professional project">💶</span>
-                  )}
                 </p>
                 <ul style={{ listStyle: "none" }}>
                   <li>{project.date}</li>
