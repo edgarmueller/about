@@ -35,6 +35,6 @@
   },
   "devDependencies": {
     "jest": "30.5.1",
-    "prettier": "3.9.7"
+    "prettier": "3.9.8"
   }
 }
